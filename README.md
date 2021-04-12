@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Development environment
+
+Next.js<br />
+TypeScript<br />
+Tailwind CSS<br />
+Recoil<br />
+ESLint + Prettier<br />
+Jest<br />
 
 ## Getting Started
 
