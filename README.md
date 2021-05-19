@@ -4,7 +4,6 @@
 Next.js<br />
 TypeScript<br />
 Tailwind CSS<br />
-Recoil<br />
 ESLint + Prettier<br />
 Jest<br />
 
