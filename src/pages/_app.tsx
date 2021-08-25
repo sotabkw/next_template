@@ -1,8 +1,8 @@
 import "../styles/index.css"
-import 'tailwindcss/tailwind.css'
+import "tailwindcss/tailwind.css"
 import { AppProps } from "next/app"
 
-function MyApp({ Component, pageProps }: AppProps) {
+const MyApp = ({ Component, pageProps }: AppProps): JSX.Element => {
   return <Component {...pageProps} />
 }
 
